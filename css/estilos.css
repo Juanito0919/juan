@@ -1,0 +1,96 @@
+<styles>
+.contenedor {
+	width: 1000px; /*ancho de la pagina*/
+	margin: 0 auto; /*centra el contenedor*/
+	background-color: #555; /*color de fondo*/
+}
+.encabezado {
+	width: 100%; /*ancho del div*/
+	height: 200px; /*alto del div*/
+	background-color: #76d4ff; /*color de fondo*/
+}
+h1 {
+	font-size: 60px;
+	color: #006695;
+	font-weight: bold;
+	margin-top: 60px;
+	text-shadow: #0099df 5px 5px;
+}
+.logo {
+	width: 25%;
+	text-align: center;
+	margin-top: 25px;
+	float: left;
+}
+.redondear {
+	border-radius: 100px;
+}
+.titular {
+	width: 75%;
+	text-align: center;
+	float: left;
+}
+.navegacion {
+	width: 100%;
+	height: 90px;
+	background-color: #4896b9;
+	text-align: center;
+}
+.navegacion a:link{
+	font-size: 30px;
+	text-decoration: none;
+	font-weight: bold;
+	letter-spacing: 2px;
+	color: #fff;
+}
+.navegacion a:hover{
+	font-size: 30px;
+	font-weight: bold;
+	letter-spacing: 2px;
+	color: #b5ccdd;
+}
+.fondotab{
+	background-color: #3aa2d1;
+	border-radius: 10px;
+	text-align: center;
+	align-items: center;
+	display: flex;
+	justify-content: center;
+}
+.barra {
+	width: 25%;
+	height: 600px;
+	background-color: #4184a2;
+	float: left;
+	text-align: center;
+}
+.barra1 {
+	text-align: center;
+	color: #c3e3f2;
+	font-size: large;
+}
+.principal {
+	width: 75%;
+	height: 600px;
+	background-color: #47bcf3;
+	float: left;
+	text-align: center;
+}
+.textoprincipal {
+	color: #00008B;
+}
+h3 {
+	margin-left: 160px;
+	margin-right: 160px;
+}
+h4 {
+
+}
+.pie {
+	width: 100%;
+	height: 100px;
+	background-color: #328bb4;
+	float: left;
+	text-align: center;
+}
+</styles>
